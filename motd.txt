@@ -1,0 +1,4 @@
+WELCOME to our new game.
+The game is a beta.
+WE have worked hard on this.
+Please report bugs at https://discord.gg/9GEysUU9
